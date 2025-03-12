@@ -115,9 +115,9 @@ int main(void)
 ```
 
 ## OUTPUT
-![IMG20250312111315](https://github.com/user-attachments/assets/24295697-99a4-488b-8bb7-fbd32aa2de79)
+![IMG20250312111849](https://github.com/user-attachments/assets/42bc23bc-ee07-4cc9-94bc-6a04e62e3dd4)
 
-![IMG20250312111313](https://github.com/user-attachments/assets/e2172f08-1900-48a8-aad0-6e557c631720)
+![IMG20250312111845](https://github.com/user-attachments/assets/35919a1a-b9b9-489d-970b-0804f864661b)
 
 
 ## Result
